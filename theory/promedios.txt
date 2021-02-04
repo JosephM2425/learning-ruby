@@ -1,0 +1,3 @@
+Sebastian: 6
+Joseph: 9
+Felipe: 6
